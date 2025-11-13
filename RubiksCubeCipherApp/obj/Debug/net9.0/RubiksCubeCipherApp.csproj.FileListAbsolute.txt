@@ -1,0 +1,14 @@
+/Users/pavansaitanguturi/Desktop/RubiksCubeCipher/RubiksCubeCipherApp/bin/Debug/net9.0/RubiksCubeCipherApp
+/Users/pavansaitanguturi/Desktop/RubiksCubeCipher/RubiksCubeCipherApp/bin/Debug/net9.0/RubiksCubeCipherApp.deps.json
+/Users/pavansaitanguturi/Desktop/RubiksCubeCipher/RubiksCubeCipherApp/bin/Debug/net9.0/RubiksCubeCipherApp.runtimeconfig.json
+/Users/pavansaitanguturi/Desktop/RubiksCubeCipher/RubiksCubeCipherApp/bin/Debug/net9.0/RubiksCubeCipherApp.dll
+/Users/pavansaitanguturi/Desktop/RubiksCubeCipher/RubiksCubeCipherApp/bin/Debug/net9.0/RubiksCubeCipherApp.pdb
+/Users/pavansaitanguturi/Desktop/RubiksCubeCipher/RubiksCubeCipherApp/obj/Debug/net9.0/RubiksCubeCipherApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/pavansaitanguturi/Desktop/RubiksCubeCipher/RubiksCubeCipherApp/obj/Debug/net9.0/RubiksCubeCipherApp.AssemblyInfoInputs.cache
+/Users/pavansaitanguturi/Desktop/RubiksCubeCipher/RubiksCubeCipherApp/obj/Debug/net9.0/RubiksCubeCipherApp.AssemblyInfo.cs
+/Users/pavansaitanguturi/Desktop/RubiksCubeCipher/RubiksCubeCipherApp/obj/Debug/net9.0/RubiksCubeCipherApp.csproj.CoreCompileInputs.cache
+/Users/pavansaitanguturi/Desktop/RubiksCubeCipher/RubiksCubeCipherApp/obj/Debug/net9.0/RubiksCubeCipherApp.dll
+/Users/pavansaitanguturi/Desktop/RubiksCubeCipher/RubiksCubeCipherApp/obj/Debug/net9.0/refint/RubiksCubeCipherApp.dll
+/Users/pavansaitanguturi/Desktop/RubiksCubeCipher/RubiksCubeCipherApp/obj/Debug/net9.0/RubiksCubeCipherApp.pdb
+/Users/pavansaitanguturi/Desktop/RubiksCubeCipher/RubiksCubeCipherApp/obj/Debug/net9.0/RubiksCubeCipherApp.genruntimeconfig.cache
+/Users/pavansaitanguturi/Desktop/RubiksCubeCipher/RubiksCubeCipherApp/obj/Debug/net9.0/ref/RubiksCubeCipherApp.dll
