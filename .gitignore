@@ -98,8 +98,8 @@ StyleCopReport.xml
 **/*.MacCatalyst/obj/
 
 # Cipher output (optional - uncomment if you want to ignore)
-# cipher.txt
-# ciphertext.txt
+cipher.txt
+ciphertext.txt
 
 # Sensitive data
 *.key

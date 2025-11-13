@@ -180,6 +180,7 @@ This project demonstrates:
 - Limited keyspace (6 moves from 18 possibilities)
 - Deterministic permutations can be reverse-engineered
 - No resistance to cryptanalysis attacks
+- **Not suitable for short messages**: Short inputs reveal character patterns in the 54-position cube output, making frequency analysis trivial
 
 For real-world encryption, use established algorithms like AES-256.
 
