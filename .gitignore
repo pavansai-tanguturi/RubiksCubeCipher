@@ -100,6 +100,7 @@ StyleCopReport.xml
 # Cipher output (optional - uncomment if you want to ignore)
 # cipher.txt
 # ciphertext.txt
+RubiksCubeCipher.sln
 
 # Sensitive data
 *.key
